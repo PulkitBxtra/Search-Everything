@@ -1,0 +1,25 @@
+{
+  "name": "search-everything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PulkitBxtra/Search-Everything.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PulkitBxtra/Search-Everything/issues"
+  },
+  "homepage": "https://github.com/PulkitBxtra/Search-Everything#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.2.0",
+    "convertapi-js": "~1.1"
+  }
+}
